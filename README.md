@@ -9,13 +9,14 @@ Interactive Elements: Leveraging JavaScript for seamless and engaging user inter
 Project Showcase: Highlighting key projects that demonstrate my technical prowess.
 Codebase Clarity: Well-organized code for easy readability and maintenance.
 
-#Technologies Used#
+# Technologies Used #
 HTML
 CSS
 JavaScript
 
-#How to View#
-Clone the repository: git clone [repository_link]
+# How to View #
+
+Clone the repository: git clone
 Open the index.html file in your preferred web browser.
 
 Feel free to explore, provide feedback, or connect with me. Let's continue building the web together! 🌐💻
